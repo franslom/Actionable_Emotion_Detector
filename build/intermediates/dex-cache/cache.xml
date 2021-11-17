@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franci Suni\.android\build-cache\b6a6e0b1bbbd410a599cdfc3d083fe3728e5b051\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\Franci Suni\Documents\Android Studio\empalink-sample-project-android-master\app\build\intermediates\pre-dexed\debug\classes_ea7dc38c2277922bf995c63ce6c20532dae83586.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franci Suni\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\Franci Suni\Documents\Android Studio\empalink-sample-project-android-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_aedd86bfb3f97288211f751f61d91c17e74267ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franci Suni\.android\build-cache\d7fadd311176d1fde710c77480d6d02b39e7c412\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\Franci Suni\Documents\Android Studio\empalink-sample-project-android-master\app\build\intermediates\pre-dexed\debug\classes_5393440ecd0edcf9d3ab5f85f3a61ceb3f979c7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franci Suni\.android\build-cache\d56e68b5a9951af3e18fdda378833002aefdc8b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3dd9790a64f5bd6e724c286c8b1063b7762bc4e3">
+        <dex dex="C:\Users\Franci Suni\Documents\Android Studio\empalink-sample-project-android-master\app\build\intermediates\pre-dexed\debug\classes_5b39e040c206beb961388a6de76453e4f1dc3def.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franci Suni\.android\build-cache\b5075280b53bd3637cf2bd7b128618773aa503ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\Franci Suni\Documents\Android Studio\empalink-sample-project-android-master\app\build\intermediates\pre-dexed\debug\classes_3df5d4b222a13dee33d5d500a80638e67120bc1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franci Suni\.android\build-cache\47616f81ef092e962723c8e1794d4eca92d1d997\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\Franci Suni\Documents\Android Studio\empalink-sample-project-android-master\app\build\intermediates\pre-dexed\debug\classes_18db945630a7eb65b03c47292108b0f9886679f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franci Suni\.android\build-cache\758b09208c6ce47ac3aa69534c6890ced850051a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Franci Suni\Documents\Android Studio\empalink-sample-project-android-master\app\build\intermediates\pre-dexed\debug\classes_e8b8422ace8993c8b3b9ff1d1906c28fc1c20e0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franci Suni\.android\build-cache\e382d037014aed616124716041b3dbdf81f5b088\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\Franci Suni\Documents\Android Studio\empalink-sample-project-android-master\app\build\intermediates\pre-dexed\debug\classes_63c2d7059c7e3f0b23cbfbdb7c2e6437988e0e90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franci Suni\.android\build-cache\af4718c021f8af8dcab94b2eeb34ac507cf44761\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Franci Suni\Documents\Android Studio\empalink-sample-project-android-master\app\build\intermediates\pre-dexed\debug\classes_899499d439b3715f431fe04011437f0ec710aaea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franci Suni\.android\build-cache\c9b4ff2eb8c7c2027895f2ee7aabc01ada7ae082\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\Franci Suni\Documents\Android Studio\empalink-sample-project-android-master\app\build\intermediates\pre-dexed\debug\classes_a020c0249177a3291715210cc62c7e3eee47df74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franci Suni\.android\build-cache\6e0b0b8d1ff90df3efef9416bb4c79d189d2c9b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\Franci Suni\Documents\Android Studio\empalink-sample-project-android-master\app\build\intermediates\pre-dexed\debug\classes_5de93a183a18b38400d7382a4a8c29350996e1ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franci Suni\.android\build-cache\9b1e224668b9edf51d26e35cea25b87ac1a8a0cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Franci Suni\Documents\Android Studio\empalink-sample-project-android-master\app\build\intermediates\pre-dexed\debug\classes_870b6918a790c6ceb78ffde8b07676822ff62cd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franci Suni\.android\build-cache\113036302225026ed6a074a8ac0b0274b9334b97\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\Franci Suni\Documents\Android Studio\empalink-sample-project-android-master\app\build\intermediates\pre-dexed\debug\classes_11fb4d6533b316c540906bbaf4016f7167c2cf01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franci Suni\.android\build-cache\4f6ebd2be3d2f15acda1de3e685493c9ded6c9ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\Franci Suni\Documents\Android Studio\empalink-sample-project-android-master\app\build\intermediates\pre-dexed\debug\classes_1585684b0cdb2474b27acb61f4d6cbe74dff2d96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franci Suni\.android\build-cache\1de6cea45afdbf8552de8b5a252d4ed9db03c6bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Franci Suni\Documents\Android Studio\empalink-sample-project-android-master\app\build\intermediates\pre-dexed\debug\classes_fb92ff8e06456612686e87f1e1d643a6a9665479.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franci Suni\Documents\Android Studio\empalink-sample-project-android-master\app\libs\jtransforms-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="20ab3d14a0375cc2baee9452b92b217aac7e3c57">
+        <dex dex="C:\Users\Franci Suni\Documents\Android Studio\empalink-sample-project-android-master\app\build\intermediates\pre-dexed\debug\jtransforms-2.4.0_14d837f32323db1e0d19dc039d8ce7d6d0fc6987.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franci Suni\.android\build-cache\1f01c657c1cffce23c85a56cb2d573cb8c447f8a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Franci Suni\Documents\Android Studio\empalink-sample-project-android-master\app\build\intermediates\pre-dexed\debug\classes_e3a72a7293fbc3af64ca9a428055ed5b52288bac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franci Suni\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\Franci Suni\Documents\Android Studio\empalink-sample-project-android-master\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_ef77487bb00024fd01b6e378d34e36f0dfec3492.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franci Suni\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Franci Suni\Documents\Android Studio\empalink-sample-project-android-master\app\build\intermediates\pre-dexed\debug\okio-1.6.0_5becae7c24a5cd1a210462964496f2c3fcf09bb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franci Suni\.android\build-cache\0627251200288daba0cb12c254073096d218827a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Franci Suni\Documents\Android Studio\empalink-sample-project-android-master\app\build\intermediates\pre-dexed\debug\classes_ef85b1b7d37828400cd11816ac5f646ed2bcfa0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franci Suni\.android\build-cache\5b0ca117c537330ac3d6edcd2b995c0e8768506b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\Franci Suni\Documents\Android Studio\empalink-sample-project-android-master\app\build\intermediates\pre-dexed\debug\classes_e204aede9bc403c38ff1c5e109756b614bc34b1e.jar" />
+    </item>
+
+</items>
