@@ -1,0 +1,260 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:background="@mipmap/red"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/status"
+        android:layout_alignParentStart="true"
+        android:textStyle="bold"
+        android:textColor="@color/White"
+        android:fontFamily="monospace"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/deviceName"
+        android:textStyle="bold"
+        android:textColor="@color/White"
+        android:fontFamily="monospace"
+        android:layout_below="@id/status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <RelativeLayout
+        android:layout_marginTop="20dp"
+        android:visibility="gone"
+        android:id="@+id/dataArea"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/deviceName">
+
+        <TextView
+            android:id="@+id/accel_label"
+            android:layout_alignParentStart="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:fontFamily="monospace"
+            android:textColor="@color/White"
+            android:text="@string/accel" />
+
+        <LinearLayout
+            android:id="@+id/accel_area"
+            android:layout_below="@id/accel_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:fontFamily="monospace"
+                android:textColor="@color/White"
+                android:text="@string/accel_x" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="50dp"
+                android:fontFamily="monospace"
+                android:id="@+id/accel_x"
+                android:textStyle="bold"
+                android:textColor="@color/White"
+                android:text="@string/emptyText"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:fontFamily="monospace"
+                android:textColor="@color/White"
+                android:text="@string/accel_y" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="50dp"
+                android:fontFamily="monospace"
+                android:textStyle="bold"
+                android:textColor="@color/White"
+                android:id="@+id/accel_y"
+                android:text="@string/emptyText"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:fontFamily="monospace"
+                android:textColor="@color/White"
+                android:text="@string/accel_z" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="50dp"
+                android:textStyle="bold"
+                android:fontFamily="monospace"
+                android:textColor="@color/White"
+                android:id="@+id/accel_z"
+                android:text="@string/emptyText"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/eda_label"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_below="@id/accel_area"
+            android:textStyle="bold"
+            android:textColor="@color/White"
+            android:fontFamily="monospace"
+            android:layout_height="wrap_content"
+            android:text="@string/eda_label" />
+
+        <TextView
+            android:layout_below="@id/eda_label"
+            android:layout_width="wrap_content"
+            android:textStyle="bold"
+            android:textColor="@color/White"
+            android:fontFamily="monospace"
+            android:layout_height="wrap_content"
+            android:id="@+id/eda"
+            android:text="@string/emptyText"/>
+
+        <TextView
+            android:id="@+id/battery_label"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"
+            android:textColor="@color/White"
+            android:fontFamily="monospace"
+            android:layout_below="@id/eda"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/battery_label" />
+
+        <TextView
+            android:layout_below="@id/battery_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textColor="@color/White"
+            android:id="@+id/battery"
+            android:fontFamily="monospace"
+            android:text="@string/emptyText"/>
+
+
+
+
+
+        <TextView
+            android:id="@+id/textView_stress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textColor="@color/White"
+            android:layout_below="@id/battery"
+            android:fontFamily="monospace"
+            android:layout_alignParentStart="true"
+            android:text="STRESS STATE:" />
+        <TextView
+            android:id="@+id/textView_physical_activity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PHYSICAL ACTIVITY"
+            android:textStyle="bold"
+            android:fontFamily="monospace"
+            android:textColor="@color/White"
+            android:layout_alignParentStart="true"
+            android:layout_below="@id/textView_stress"
+            android:layout_toEndOf="@+id/deviceName" />
+        <TextView
+            android:id="@+id/textView_subjects"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView_physical_activity"
+            android:textStyle="bold"
+            android:fontFamily="monospace"
+            android:textColor="@color/White"
+            android:layout_alignParentStart="true"
+            android:text="NUMBER OF SUBJECTS:" />
+        <TextView
+            android:id="@+id/textView_audio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView_subjects"
+            android:textStyle="bold"
+            android:fontFamily="monospace"
+            android:textColor="@color/White"
+            android:layout_alignParentStart="true"
+            android:text="MICROPHONE:" />
+
+
+        <TextView
+            android:id="@+id/TextView_baseline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="EDA_BASELINE"
+            android:textStyle="bold"
+            android:fontFamily="monospace"
+            android:textColor="@color/White"
+            android:layout_below="@id/textView_audio"
+            android:layout_alignParentStart="true"
+            />
+
+        <TextView
+            android:id="@+id/TextView_emotional_trigger"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="EMOTIONAL TRIGGER: "
+            android:textStyle="bold"
+            android:fontFamily="monospace"
+            android:textColor="@color/White"
+            android:layout_below="@id/TextView_baseline"
+            android:layout_alignParentStart="true"
+            android:layout_toEndOf="@+id/deviceName" />
+
+
+    </RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <com.empatica.sample.ui.camera.CameraSourcePreview
+        android:id="@+id/preview"
+        android:layout_width="231dp"
+        android:layout_height="286dp"
+        android:weightSum="1"
+        android:layout_alignParentRight="true"
+        >
+
+        <com.empatica.sample.ui.camera.GraphicOverlay
+            android:id="@+id/faceOverlay"
+            android:layout_width="match_parent"
+            android:layout_height="222dp"
+            android:layout_weight="18.43" />
+
+    </com.empatica.sample.ui.camera.CameraSourcePreview>
+
+
+
+</RelativeLayout>

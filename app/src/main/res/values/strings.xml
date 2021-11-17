@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Actionable Emotion Detector</string>
+    <string name="accel">ACCELEROMETERS:</string>
+    <string name="accel_x">x:</string>
+    <string name="accel_y">y:</string>
+    <string name="accel_z">z:</string>
+    <string name="bvp_label">BVP</string>
+    <string name="eda_label">EDA:</string>
+    <string name="ibi_label">IBI</string>
+    <string name="emptyText">-</string>
+    <string name="temp_label">Temperature</string>
+    <string name="battery_label">BATTERY:</string>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+</resources>
